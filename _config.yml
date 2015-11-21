@@ -2,6 +2,7 @@ name: Cube Photo
 favicon: null
 layout_spectrum: 0.24962
 typography_spectrum: 0.46634
+title: Photo Agency for the Design Press
 cta:
   domain: null
   bucket: null
