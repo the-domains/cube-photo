@@ -1,0 +1,28 @@
+name: Cube Photo
+favicon: null
+layout_spectrum: 0.5837716204114258
+typography_spectrum: 0.06669867783784866
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.48363635246641934
+  lightness: 0.2541475649923086
+  saturation: 0.417291869642213
+  rhythmicContrast: 0.6076748329214752
+purpose: []
