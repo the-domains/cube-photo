@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Photo Agency for the Design Press]]></title>
         <description><![CDATA[Photo Agency for the Design Press]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cube-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 20:25:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 Nov 2015 20:25:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cube-photo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2871425/ello-optimized-afa48dea.jpg">]]></description>
+            <link>https://thegrid.ai/cube-photo/5fdfd953-8106-42d9-a56c-d4d78ce365c9/index.html</link>
+            <guid isPermaLink="false">5fdfd953-8106-42d9-a56c-d4d78ce365c9</guid>
+            <pubDate>Sat, 21 Nov 2015 20:24:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/2312025/ello-optimized-3bc3d331.jpg">]]></description>
-            <link>undefined44428b95-52d5-4b40-9641-50cf2e042b76/index.html</link>
+            <link>https://thegrid.ai/cube-photo/44428b95-52d5-4b40-9641-50cf2e042b76/index.html</link>
             <guid isPermaLink="false">44428b95-52d5-4b40-9641-50cf2e042b76</guid>
             <pubDate>Sat, 21 Nov 2015 20:24:55 GMT</pubDate>
         </item>
