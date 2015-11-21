@@ -1,6 +1,6 @@
 name: Cube Photo
 favicon: null
-layout_spectrum: 0.24962
+layout_spectrum: 0.94783
 typography_spectrum: 0.38731
 title: Photo Agency for the Design Press
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#fefefe'
+    - '#3f3328'
+    - '#fed282'
+    - '#a6844b'
+    - '#b4b8b9'
   brandStrength: 0
-  lightness: 0.9375
-  saturation: 0.375
+  lightness: 1
+  saturation: 0.25
   rhythmicContrast: 0.5
 purpose: []
