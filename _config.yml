@@ -1,29 +1,41 @@
-name: Cube Photo
-favicon: null
-layout_spectrum: 0.07425
-typography_spectrum: 0.38731
 title: Photo Agency for the Design Press
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.125
+  brandStrength: 0
+  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#ffffff'
     - '#ffffff'
     - '#ffffff'
     - '#ffffff'
-  brandStrength: 0
   lightness: 1
-  saturation: 0.125
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Cube Photo
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.38731
+layout_spectrum: 0.5361702
